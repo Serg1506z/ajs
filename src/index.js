@@ -5,6 +5,6 @@ function info() {
     return m;
   }
   
-  export default {
+  module.exports = {
     info
   };
